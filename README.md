@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some cool projects.<br>👯 I’m currently learning React and TypeScript<br>🌱 I’m currently a student in '42 Berlin Coding School'<br>💬 Ask me about ..... Anything. I will try my best to help.
+🔭 I’m currently working on some cool projects.<br>👯 I’m currently learning React and TypeScript<br>🌱 I’m currently a student in '42 Berlin Coding School'<br>🌱 **Looking for a junior software engineer position focused on front-end/ full-stack.**
 
 
 ## 🌐 Socials:
